@@ -49,4 +49,4 @@ This project is a simple **console-based scientific calculator** built in Java. 
 ## 👨‍💻 Author
 
 - Name - Dharmendra Kumar Singh
-- Java Developer | [thakurdm64@gmail.com] | []
+- Java Developer | [thakurdm64@gmail.com] | [https://github.com/DharmendraKumarSingh-ai]
